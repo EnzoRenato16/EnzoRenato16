@@ -4,8 +4,8 @@
 - 🌱 Estudando engenhria da computação
 - 😄 Pronouns: ele/dele
 
-
 <div style="display: inline_block"><br>
+   <img src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif.gif"
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
