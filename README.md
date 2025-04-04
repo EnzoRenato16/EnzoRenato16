@@ -2,7 +2,7 @@
   <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="220" width="230" src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif.gif"
 
-- 🔭 Hoje pretendo trabalhar com fullstack
+- 🔭 Hoje pretendendo trabalhar com fullstack
 - 🌱 Estudando engenhria da computação
 - 😄 Pronouns: ele/dele
 
