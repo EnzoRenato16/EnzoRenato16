@@ -1,6 +1,4 @@
-## oii👋 sou o Enzo Renato, desenvolvedor de back-end e front-end
-
-
+## Oii sou o Enzo Renato, desenvolvedor de back-end e front-end!
 
 - 🔭 Hoje pretendo trabalhar com fullstack
 - 🌱 Estudando engenhria da computação
