@@ -1,6 +1,6 @@
 ## Oii sou o Enzo Renato, desenvolvedor de back-end e front-end!
   <div style="display: inline_block"><br>
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif.gif"
+ <img align="center" alt="Rafa-Js" height="150" width="160" src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif.gif"
 
 - 🔭 Hoje pretendo trabalhar com fullstack
 - 🌱 Estudando engenhria da computação
