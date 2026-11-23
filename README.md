@@ -1,8 +1,8 @@
-## Oii sou o Enzo Renato, desenvolvedor de back-end e front-end!
+## Oii sou o Enzo Renato, Engnheiro de dados!
   <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="220" width="230" src="https://www.gifcen.com/wp-content/uploads/2022/02/hello-gif.gif"
 
-- 🔭 Hoje pretendendo trabalhar com fullstack, backend ou/e frontend
+- 🔭 Hoje trbalho com engenharia de dados 
 - 🌱 Estudando engenhria da computação
 - 😄 Pronouns: ele/dele
 
